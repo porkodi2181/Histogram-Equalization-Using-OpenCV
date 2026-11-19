@@ -89,22 +89,27 @@ plt.show()
 ```
 ## Output:
 ### Original gray scale image 
-![Screenshot 2025-04-27 212047](https://github.com/user-attachments/assets/78e85d52-396b-43c4-b6ed-588a5c0218ba)
+<img width="622" height="647" alt="image" src="https://github.com/user-attachments/assets/bfb9c813-c43d-4194-a6ff-5c3cf5c46de9" />
+
+
 
 
 
 ### Original Histogram 
-![Screenshot 2025-04-27 212058](https://github.com/user-attachments/assets/1f4fac02-6145-4114-aeb6-97e83e13e58f)
+<img width="617" height="608" alt="image" src="https://github.com/user-attachments/assets/989b25b3-881b-43bd-a3e1-826e4fe9b030" />
+
 
 
 
 ### Equalization Image.
-![Screenshot 2025-04-27 212106](https://github.com/user-attachments/assets/f3e0da14-7100-47fa-a52f-53f0cb51ee86)
+<img width="605" height="560" alt="image" src="https://github.com/user-attachments/assets/8241c078-db91-49f0-9cee-0fec23332e5c" />
+
 
 
 
 ### Equalized Histogram
-![Screenshot 2025-04-27 212113](https://github.com/user-attachments/assets/145edd31-03be-48c8-911a-865fa5f980d1)
+<img width="538" height="533" alt="image" src="https://github.com/user-attachments/assets/a5ad6efb-a764-4e76-9fc7-50fd518a83c3" />
+
 
 
 
